@@ -1,6 +1,7 @@
 # Pico W Keypad-to-LED Controller
 
 Firmware and documentation for a Raspberry Pi Pico W project that maps a 4x4 membrane keypad to 12 external LEDs.
+<img width="801" height="704" alt="Screenshot 2026-04-29 162726" src="https://github.com/user-attachments/assets/e14588e5-689b-4d88-8134-27155cd9c410" />
 
 > **Behavior preserved:** `src/main.cpp` keeps the provided control logic unchanged.
 
